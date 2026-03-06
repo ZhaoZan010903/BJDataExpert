@@ -1,4 +1,5 @@
-# 🌍 Data Expert | 空间大数据分析系统 V2.0
+# 🌍 Data Expert | 空间(BJ)大数据分析系统 V2.0
+#### 全部使用gemini所写 
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![CustomTkinter](https://img.shields.io/badge/UI-CustomTkinter-success.svg)
